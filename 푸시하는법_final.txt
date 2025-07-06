@@ -1,0 +1,7 @@
+git remote set-url origin git@github.com:GiwonLee00/GiwonLee00.github.io.git
+ssh -T git@github.com
+
+# 이것만 실행하면 됨!!
+git add .
+git commit -m "update content"
+git push -u origin main

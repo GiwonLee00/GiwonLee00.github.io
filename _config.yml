@@ -22,7 +22,7 @@ repository               : "GiwonLee00/GiwonLee00.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "이기원_profile.png"
+  avatar           : "giwonlee_profile.jpg"
   name             : "Giwon Lee"
   pronouns         : # example: "she/her"
   bio              : "I am a 2nd M.S. student under the supervision of Prof. Kuk-Jin Yoon at the Visual Intelligence Lab (VILab), Korea Advanced Institute of Science and Technology (KAIST). My research focuses on motion planning and end-to-end autonomous driving systems."
@@ -215,18 +215,18 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
