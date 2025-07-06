@@ -1,11 +1,11 @@
 ---
-title: "Multi-modal Knowledge Distillation-based Human Trajectory Forecasting"
+title: "Interaction-Merged Motion Planning: Effectively Leveraging Diverse Motion Datasets for Robust Planning"
 collection: publications
 category: conferences
 # permalink: /publication/2025-06-18-CVPR2025_Multi-modal Knowledge Distillation-based Human Trajectory Forecasting.md
-excerpt: 'Jaewoo Jeong, Seohee Lee, Daehee Park, Giwon Lee, Kuk-Jin Yoon'
-date: 2025-06-18
-venue: 'IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)'
+excerpt: 'Giwon Lee*, Wooseong Jeong*, Daehee Park, Jaewoo Jeong, Kuk-Jin Yoon // * denotes equal contribution'
+date: 2025-06-25
+venue: 'International Conference on Computer Vision (ICCV)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'https://openaccess.thecvf.com/content/CVPR2025/papers/Jeong_Multi-modal_Knowledge_Distillation-based_Human_Trajectory_Forecasting_CVPR_2025_paper.pdf'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
