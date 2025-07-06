@@ -5,3 +5,8 @@ ssh -T git@github.com
 git add .
 git commit -m "update content"
 git push -u origin main
+
+# 본 페이지 수정: /mnt/giwon/giwon_CV_final/_pages/about.md
+# publication 수정: /mnt/giwon/giwon_CV_final/_publications 에 파일 추가하면 됨.
+# 상단 추가 페이지 만들기: /mnt/giwon/giwon_CV_final/_data/navigation.yml
+# 
