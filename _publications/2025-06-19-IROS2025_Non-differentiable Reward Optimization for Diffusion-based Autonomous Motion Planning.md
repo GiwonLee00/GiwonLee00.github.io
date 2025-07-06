@@ -3,7 +3,7 @@ title: "Non-differentiable Reward Optimization for Diffusion-based Autonomous Mo
 collection: publications
 category: conferences
 # permalink: /publication/2025-06-18-CVPR2025_Multi-modal Knowledge Distillation-based Human Trajectory Forecasting.md
-excerpt: 'Giwon Lee*, Daehee Park*, Jaewoo Jeong*, Kuk-Jin Yoon // * denotes equal contribution'
+excerpt: 'Giwon Lee*, Daehee Park*, Jaewoo Jeong*, Kuk-Jin Yoon (* denotes equal contribution)'
 date: 2025-06-19
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
