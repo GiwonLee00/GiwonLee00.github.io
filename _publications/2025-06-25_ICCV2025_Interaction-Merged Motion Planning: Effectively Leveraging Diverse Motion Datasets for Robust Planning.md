@@ -3,7 +3,7 @@ title: "Interaction-Merged Motion Planning: Effectively Leveraging Diverse Motio
 collection: publications
 category: conferences
 # permalink: /publication/2025-06-18-CVPR2025_Multi-modal Knowledge Distillation-based Human Trajectory Forecasting.md
-excerpt: 'Giwon Lee*, Wooseong Jeong*, Daehee Park, Jaewoo Jeong, Kuk-Jin Yoon (* denotes equal contribution)'
+excerpt: 'Giwon Lee\*, Wooseong Jeong\*, Daehee Park, Jaewoo Jeong, Kuk-Jin Yoon (\* denotes equal contribution)'
 date: 2025-06-25
 venue: 'International Conference on Computer Vision (ICCV)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
