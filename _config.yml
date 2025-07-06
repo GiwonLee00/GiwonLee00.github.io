@@ -25,11 +25,11 @@ author:
   avatar           : "giwonlee_profile.jpg"
   name             : "Giwon Lee"
   pronouns         : # example: "she/her"
-  bio              : "M.S. Student (2nd Year) in Computer Vision, KAIST"
+  bio              : "M.S. Student (2nd Year) in Computer Vision"
   location         : "Daejeon, South Korea" # Location of the author
-  employer         : "Red Brick University"
+  employer         : "KAIST"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "dlrldnjs@kaist.ac.kr" 
 
   # Academic websites
   academia         : # URL
