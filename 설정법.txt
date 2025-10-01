@@ -4,3 +4,9 @@ git remote rename origin upstream
 git remote add origin git@github.com:GiwonLee00/GiwonLee00.github.io.git
 git branch -M main
 git push --force-with-lease -u origin main
+
+이제는 이 방식
+
+git add -A
+git commit -m "Update: <무엇을 바꿨는지>"
+git push
