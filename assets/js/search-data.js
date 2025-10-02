@@ -398,15 +398,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/%EC%95%88%EC%93%B0%EB%8A%94%EA%B1%B0%20%EC%97%AC%EA%B8%B0%EB%A1%9C/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-our-co-first-authored-paper-vr-drive-viewpoint-robust-end-to-end-driving-with-feed-forward-3d-gaussian-splatting-has-been-accepted-to-neurips-2025",
+            },},{id: "news-our-co-first-authored-paper-vr-drive-viewpoint-robust-end-to-end-driving-with-feed-forward-3d-gaussian-splatting-has-been-accepted-to-neurips-2025",
           title: 'Our co-first-authored paper, “VR-Drive: Viewpoint-Robust End-to-End Driving with Feed-Forward 3D Gaussian Splatting,” has...',
           description: "",
           section: "News",},{id: "projects-project-1",
