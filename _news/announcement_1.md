@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our co-first-authored paper, “VR-Drive: Viewpoint-Robust End-to-End Driving with Feed-Forward 3D Gaussian Splatting,” has been accepted to NeurIPS 2025.
+“VR-Drive: Viewpoint-Robust End-to-End Driving with Feed-Forward 3D Gaussian Splatting,” has been accepted to NeurIPS 2025.
