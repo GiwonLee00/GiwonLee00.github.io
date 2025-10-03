@@ -384,8 +384,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-co-first-authored-paper-vr-drive-viewpoint-robust-end-to-end-driving-with-feed-forward-3d-gaussian-splatting-has-been-accepted-to-neurips-2025",
-          title: 'Our co-first-authored paper, “VR-Drive: Viewpoint-Robust End-to-End Driving with Feed-Forward 3D Gaussian Splatting,” has...',
+            },},{id: "news-vr-drive-viewpoint-robust-end-to-end-driving-with-feed-forward-3d-gaussian-splatting-has-been-accepted-to-neurips-2025",
+          title: '“VR-Drive: Viewpoint-Robust End-to-End Driving with Feed-Forward 3D Gaussian Splatting,” has been accepted to...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
