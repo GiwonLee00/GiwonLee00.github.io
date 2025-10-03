@@ -29,7 +29,7 @@ latest_posts:
 
 Hello! I am a second-year master’s student in VILAB led by Prof. Kuk-Jin Yoon in the Department of Mechanical Engineering at KAIST. I work on `Motion Planning` and `End-to-End Autonomous Driving`. I aim to integrate planning and policy learning while enabling fast adaptation to diverse roads, weather, and traffic. `Safety` and `Generalization` are my core goals, and I benchmark methods rigorously in simulation and with real-world data.
 
-I enjoy open discussions on research and practice, and I am always open to exchanging ideas on `Motion Planning` and `End-to-End Autonomous Driving`. Please feel free to get in touch by [email](mailto:dlrldnjs@kaist.ac.kr) or on [LinkedIn](www.linkedin.com/in/giwon-lee-515911336).
+I enjoy open discussions on research and practice, and I am always open to exchanging ideas on `Motion Planning` and `End-to-End Autonomous Driving`. Please feel free to get in touch by [email](mailto:dlrldnjs@kaist.ac.kr) or on [LinkedIn](https://www.linkedin.com/in/giwon-lee-515911336/).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
