@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>KAIST VIlab</a>. 2nd Year M.S. student
+subtitle: <a href='#'>KAIST VIlab</a>. 1st Year Ph.D. student
 
 profile:
   align: right
