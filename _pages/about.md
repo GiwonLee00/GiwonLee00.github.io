@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>KAIST VIlab</a>. 1st Year Ph.D. student
+subtitle: <a href='https://vi.kaist.ac.kr/' target='_blank' rel='noopener'>KAIST VILAB</a>. 1st Year Ph.D. student
 
 profile:
   align: right
@@ -27,9 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am a first-year Ph.D. student in VILAB led by Prof. Kuk-Jin Yoon in the Department of Mechanical Engineering at KAIST. I work on `Motion Planning` and `End-to-End Autonomous Driving`. I aim to integrate planning and policy learning while enabling fast adaptation to diverse roads, weather, and traffic. `Safety` and `Generalization` are my core goals, and I benchmark methods rigorously in simulation and with real-world data.
+Hello! I am a first-year Ph.D. student in VILAB led by Prof. Kuk-Jin Yoon in the Department of Mechanical Engineering at KAIST. My research spans the full spectrum of planning — from high-level reasoning to low-level control — with the long-term goal of building a single, coherent framework that can be entrusted to act fully autonomously, end to end.
 
-I enjoy open discussions on research and practice, and I am always open to exchanging ideas on `Motion Planning` and `End-to-End Autonomous Driving`. Please feel free to get in touch by [email](mailto:dlrldnjs@kaist.ac.kr) or on [LinkedIn](https://www.linkedin.com/in/giwon-lee-515911336/).
+I think of this stack in three layers. At the **high level**, `Agentic AI` handles reasoning, decision-making, and long-horizon planning. As the **bridge**, `Vision-Language-Action (VLA)` and `Vision-Language Navigation (VLN)` models ground language and perception into embodied action. At the **low level**, `Motion Planning` and `End-to-End Autonomous Driving` turn intent into safe, executable behavior. My earlier research centered on this low level, primarily in autonomous driving; my current work moves up the stack to the high and bridge levels — these days on `Agentic AI`, `VLA`, and `VLN` — building toward connecting all three into one autonomous whole.
+
+I enjoy open discussions on research and practice, and I am always happy to exchange ideas on planning at any level — from agentic reasoning to autonomous driving. Please feel free to get in touch by [email](mailto:dlrldnjs@kaist.ac.kr) or on [LinkedIn](https://www.linkedin.com/in/giwon-lee-515911336/).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
