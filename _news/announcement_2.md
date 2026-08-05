@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers, “Unified Prediction and Planning via Conflict-Aware Disjoint Parameter Training” and “VIPS: Vehicle-Infrastructure Cooperative Planning Benchmark via Pseudo-Simulation,” have been accepted to ECCV 2026.
+Two papers, “Unified Prediction and Planning via Conflict-Aware Disjoint Parameter Training” and “VIPS: Vehicle-Infrastructure Cooperative Planning Benchmark via Pseudo-Simulation,” have been accepted to ECCV 2026. VIPS has been selected as a **Spotlight** presentation.
