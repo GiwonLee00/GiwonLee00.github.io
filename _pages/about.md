@@ -35,7 +35,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I’m a first-year PhD student in VILAB at KAIST, advised by Prof. Kuk-Jin Yoon.
+Hi! I’m a first-year Ph.D. student in VILAB at KAIST, advised by Prof. Kuk-Jin Yoon.
 
 My goal is to build autonomous agents capable of both high-level reasoning and low-level control. My current research spans reusable skills for AI agents, vision-language-action (VLA) models, and model compression through knowledge distillation.
 
