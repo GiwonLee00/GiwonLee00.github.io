@@ -37,7 +37,7 @@ latest_posts:
 
 Hi! I’m a first-year Ph.D. student in VILAB at KAIST, advised by Prof. Kuk-Jin Yoon.
 
-My goal is to build autonomous agents capable of both high-level reasoning and low-level control. My current research spans reusable skills for AI agents, vision-language-action (VLA) models, and model compression through on-policy distillation.
+My goal is to build autonomous agents capable of both high-level reasoning and low-level control. My current research spans skills for AI agents, vision-language-action (VLA) models, and model compression through on-policy distillation.
 
 I’m looking for industry research internships in agentic AI and robot learning. Feel free to reach out by [email](mailto:dlrldnjs@kaist.ac.kr) or on [LinkedIn](https://www.linkedin.com/in/giwon-lee-515911336/).
 
