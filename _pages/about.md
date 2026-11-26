@@ -19,7 +19,6 @@ academic_service: |
   - **Conference Reviewer**
     - NeurIPS 2026
     - ICLR 2027
-  - **Workshop Reviewer**
     - AAAI 2027 GSR-VLM Workshop
   - **Journal Reviewer**
     - IEEE Transactions on Intelligent Vehicles (T-IV)
