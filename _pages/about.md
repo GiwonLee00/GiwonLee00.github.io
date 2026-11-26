@@ -16,9 +16,14 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 
 academic_service: |
-  - **Conference Reviewer**: NeurIPS 2026, ICLR 2027
-  - **Workshop Reviewer**: AAAI 2027 GSR-VLM Workshop
-  - **Journal Reviewer**: IEEE Transactions on Intelligent Vehicles (T-IV), IEEE Transactions on Multimedia (TMM)
+  - **Conference Reviewer**
+    - NeurIPS 2026
+    - ICLR 2027
+  - **Workshop Reviewer**
+    - AAAI 2027 GSR-VLM Workshop
+  - **Journal Reviewer**
+    - IEEE Transactions on Intelligent Vehicles (T-IV)
+    - IEEE Transactions on Multimedia (TMM)
 social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
